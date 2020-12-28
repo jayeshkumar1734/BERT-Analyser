@@ -1,0 +1,10 @@
+numpy==1.19.4
+torch==1.7.1
+transformers==4.1.1
+keras==2.4.3
+tensorflow==2.4.0
+pandas==1.2.0
+matplotlib==3.3.3
+nltk==3.5
+scikit_learn==0.24.0
+tokenizer==2.4.0
